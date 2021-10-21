@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Team:
+Marcos Caballero Fernández - 1119150040
+Jaziel Giovani Alvarado Encino - 1119150031
+Group: IDGS71N
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -16,10 +21,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `npm test`
+### `npm run start`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Starts the development server of the React App
 
 ### `npm run build`
 
