@@ -7,7 +7,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-  background-image: url('./fondo.jpg');
+  background-image: url('./fondo.png');
 }
 
 
@@ -64,10 +64,11 @@
 }
 
 .form-register .button {
-  width: 50%;
+  width: 100%;
   background: #1f53c5;
-  border-color: white;
-  padding: 5%;
+  border: none;
+  padding: 12px;
   color: white;
+  margin: 16px 0;
   font-size: 16px;
 }
