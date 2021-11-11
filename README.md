@@ -3,9 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Team:
-Marcos Caballero Fernández - 1119150040\n
-Jaziel Giovani Alvarado Encino - 1119150031\n
-Brayan Aaron Mendez Solorio - 6518150032\n
+Marcos Caballero Fernández - 1119150040\
+Jaziel Giovani Alvarado Encino - 1119150031\
+Brayan Aaron Mendez Solorio - 6518150032\
 Group: IDGS71N
 
 ## Available Scripts
